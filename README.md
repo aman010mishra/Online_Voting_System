@@ -1,2 +1,2 @@
 # Online_Voting_System
-voting application using c programming language
+voting application using c++ programming language
